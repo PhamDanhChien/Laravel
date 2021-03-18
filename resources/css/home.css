@@ -1,0 +1,9 @@
+body {
+    background-color: red;
+    color: red;
+}
+
+#table-customer {
+    width: 100%;
+    border-collapse: collapse;
+}
